@@ -10,8 +10,8 @@ To install the required packages for the software,
 please navigate to the root directory of the software 
 (i.e. where you find getdata.py) and run the following commands:
 
-`pip install virtualenv`
-`virtualenv virt`
-`source virt/bin/activate`
-`pip install -r requirements.txt`
+    pip install virtualenv
+    virtualenv virt
+    source virt/bin/activate
+    pip install -r requirements.txt
 
