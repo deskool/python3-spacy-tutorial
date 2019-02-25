@@ -10,15 +10,20 @@ This tutorial assumes:
 
 ### Installation Instructions
 To install the required packages for the software:
-
+    
+    cd ~
+    git clone https://github.com/deskool/python3-spacy-tutorial.git
+    cd python3-spacy-tutorial
     pip install virtualenv
     virtualenv virt
     source virt/bin/activate
     pip install -r requirements.txt
     python3 -m spacy download en
 
-**Note:** If you close the terminal, but want to use the software, you will need to run `source virt/bin/activate` again
-
+**Note:** If you close the terminal, but want to use the software again, you will need to run 
+    
+    cd ~/python3-spacy-tutorial
+    source virt/bin/activate
 
 ### Test that everything installed correctly:
     python3 tutorial.py
