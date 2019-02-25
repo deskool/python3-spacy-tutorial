@@ -5,7 +5,7 @@ This is a simple tutorial for how to use [spacy](href="https://spacy.io) with Py
 
 ### Assumptions
 This tutorial assumes:
-1. That you are using a unix based system
+1. That you are using a unix based system (the code should also work on a Mac).
 2. That your system has Python 3 installed 
 
 ### Installation Instructions
