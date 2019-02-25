@@ -20,8 +20,6 @@ doc = nlp(text)
 sents = list(doc.sents)
 print('The document:', doc)
 print('The sentences:', sents)
-print(doc.sentiment)
-
 
 print('-----------------------------------------------------------------')
 #-------------------------------------------------------------------------
