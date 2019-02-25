@@ -1,4 +1,4 @@
-# Spacey Tutorial
+# Spacy for Python3 Tutorial
 
 ### About The Software 
 
