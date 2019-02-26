@@ -28,17 +28,3 @@ To install the required packages for the software:
 
 ### Test that everything installed correctly:
     python3 tutorial.py
-    
-The software should produce the following output:
-        
-    Sebastian Thrun PERSON
-    Google ORG
-    2007 DATE
-    American NORP
-    Thrun PERSON
-    Recode ORG
-    earlier this week DATE
-    my fries were super gross such disgusting fries 0.7139701576579747
-
-
-
