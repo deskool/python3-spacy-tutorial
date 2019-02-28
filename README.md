@@ -28,3 +28,8 @@ To install the required packages for the software:
 
 ### Test that everything installed correctly:
     python3 test.py
+
+
+### Questions?
+Please email me.
+
