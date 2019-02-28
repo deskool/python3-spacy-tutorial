@@ -20,6 +20,7 @@ To install the required packages for the software:
     pip install -r requirements.txt
     python3 -m spacy download en
     python3 -m spacy download en_core_web_lg
+    python3 -c  'import nltk;nltk.download("stopwords")'
 
 **Note:** If you close the terminal, but want to use the software again, you will need to run 
     
