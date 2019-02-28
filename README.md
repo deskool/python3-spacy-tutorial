@@ -27,4 +27,4 @@ To install the required packages for the software:
     source virt/bin/activate
 
 ### Test that everything installed correctly:
-    python3 tutorial.py
+    python3 test.py
