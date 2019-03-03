@@ -43,7 +43,7 @@ Please email me.
 | abc$ | Matches some pattern abc at the end of a string |
 | [abc] | Matches one of a set of characters |
 | [A-Z0-9] | Matches one of a range of characters |
-| ed|ing|s | Matches one of the specified strings (disjunction) |
+| ed&#124;ing&#124;s | Matches one of the specified strings (disjunction) |
 | * | Zero or more of previous item, e.g. a*, [a-z]* (also known as Kleene Closure) |
 | + | One or more of previous item, e.g. a+, [a-z]+ |
 | ? | Zero or one of the previous item (i.e. optional), e.g. a?, [a-z]? |
@@ -51,5 +51,5 @@ Please email me.
 | {n,} | At least n repeats |
 | {,n} | No more than n repeats |
 | {m,n} | At least m and no more than n repeats |
-| a(b|c)+ | Parentheses that indicate the scope of the operators |
+| a(b&#124;c)+ | Parentheses that indicate the scope of the operators |
 
