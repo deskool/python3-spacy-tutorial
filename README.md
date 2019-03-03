@@ -28,12 +28,14 @@ To install the required packages for the software:
     source virt/bin/activate
 
 ### Test that everything installed correctly:
-    python3 test.py
+    python3 main.py
 
 
 ### Questions?
 Please email me.
 
+
+# Appendix
 
 ## Some Regular Expressions From the [NLTK Book](https://www.nltk.org/book/ch03.html)
 
